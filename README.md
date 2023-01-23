@@ -105,11 +105,11 @@ else:
 # use if-else to print sorted array and "Element not found" if the item is not present in the list otherwise print sorted array and "Element found at index: ", result
 
 ```
-## Sample Input and Output
+## Sample Input:
 ![input](sample.png)
 
 
-## Output
+## Output:
 ![eig](output1.png)
 ![eig](output2.png)
 ![eig](output3.png)
